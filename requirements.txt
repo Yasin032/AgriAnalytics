@@ -1,1 +1,5 @@
 seaborn
+plotly
+pandas
+scikit-learn
+matplotlib
